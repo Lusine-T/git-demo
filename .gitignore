@@ -1,0 +1,9 @@
+
+# Ignore files: .db, .log files
+
+*.db  
+*.log  
+
+# Игнорировать каталоги target и bin
+target/  
+bin/
